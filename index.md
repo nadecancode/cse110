@@ -7,7 +7,7 @@
 ## Who am I?
 
 ### As a Programmer
-As a ***programmer***, I have been programming since 8th grade and have experience in programming languages like 
+As a ***programmer***, I have been programming since *8th* grade and have experience in programming languages like 
 - `Java`
 - `Python`
 - `JavaScript`
@@ -19,7 +19,7 @@ print("Hello CSE110")
 But [Why CS?](#why-cs)
 
 ### As a Person
-As a ***person***, I am currently a sophomore at [UCSD](https://ucsd.edu) majoring in Data Science & Math-CS. 
+As a ***person***, I am currently a sophomore at [UCSD](https://ucsd.edu) majoring in **Data Science** & **Math-CS**. 
 
 ## Why CS?
 I think Computer Science is interesting because
